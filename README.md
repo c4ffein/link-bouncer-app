@@ -14,6 +14,7 @@ When you click a link or open a supported file type, LinkBouncer can redirect it
 ## Customization
 
 **Limitation**: Currently only supports a hardcoded Google Chrome path.  
+I'm keeping this quick and dirty for my uses, if anyone thinks it could be nice to have an UI to select the target browser I may build one, just create an issue.
 Edit `files/base-script.applescript` to change the target browser (preserve the trailing space in the command):
 
 ```applescript
