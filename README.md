@@ -37,7 +37,7 @@ After launching the app for the first time, it should appear in your default bro
 
 ## Installation Notes
 
-- macOS may cache the previous entry for the default browsers section
+- macOS may cache data linked to the previous entry for the default browsers section
 - If changes don't take effect, delete the app and try opening a link to clear the cache
 
 ## License
